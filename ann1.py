@@ -1,4 +1,4 @@
-# Articifial Neural Network
+# Bank Customers Churn Prediction Model
 
 # Part 1 Preparing the Data
 
