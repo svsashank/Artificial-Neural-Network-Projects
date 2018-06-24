@@ -1,0 +1,2 @@
+﻿RowNumber,CustomerId,Surname,CreditScore,Geography,Geography,Gender,Age,Tenure,Balance,NumOfProducts,HasCrCard,IsActiveMember,EstimatedSalary,Exited
+1,NaN,NaN,600.00,France,None,Male,40.00,3.00,60000.00,2.00,1.00,1.00,50000.00,NaN
